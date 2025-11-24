@@ -4,7 +4,7 @@ function displayAge() {
 }
 
 function changeAge() {
-  age = 30;
+  age++;
   console.log(age);
 }
 
